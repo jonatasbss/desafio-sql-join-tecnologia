@@ -33,5 +33,5 @@ Para iniciar o teste realizei a criação do banco, segue o comando a baixo:
   </b>
   <br>
   <br>
-  Ao concluirmos esses 3 passos, vamos para as consultas, seguindo os itens do desafio proposto.
+  Ao concluirmos esses 3 passos, vamos para as consultas, seguindo os itens do desafio proposto. Segue documento sql pra visualizar as consultas.
 </p>
